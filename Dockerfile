@@ -30,6 +30,7 @@ RUN docker-php-ext-install \
     bz2 \
     iconv \
     mcrypt \
+    mbstring \
     pdo_mysql 
 
 CMD ["php"]
