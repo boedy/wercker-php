@@ -1,2 +1,2 @@
 # wercker-php
-PHP box with composer and phpunit installed
+PHP 7 box with composer installed
